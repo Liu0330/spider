@@ -1,0 +1,5 @@
+该url首页上，热映电影（预售），获取每个电影的id
+https://api-m.mtime.cn/PageSubArea/HotPlayMovies.api?sign=864de2fcca3230a577aa3294639a805b&locationId=515
+
+该url是详情页面，可以获取预告片url
+https://api-m.mtime.cn/Movie/Video.api?movieId=263505&pageIndex=1
